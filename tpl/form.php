@@ -13,7 +13,5 @@
     <input type="text" name="link" id="link"><br>
     <input type="submit" value="Спарсить">
   </form>
-  <script src="index.js"></script>
-  <script src="formHandling.js"></script>
 </body>
 </html>
